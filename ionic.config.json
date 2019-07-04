@@ -1,5 +1,7 @@
 {
   "name": "sherryconcerts",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
