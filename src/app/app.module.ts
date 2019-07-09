@@ -9,7 +9,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
-import { firebaseConfig } from "../environments/environment";
+import { firebaseConfig } from "../environments/environment"; 
 import { AngularFireModule } from "@angular/fire";
 
 @NgModule({
